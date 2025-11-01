@@ -43,6 +43,7 @@ export default function Layout({ children }) {
             <li><Link href="/users">Users</Link></li>
             <li><Link href="/login">Login</Link></li>
             <li><Link href="/register">Register</Link></li>
+            <li><Link href="/mui">Mui</Link></li>
           </ul>
         </aside>
 
